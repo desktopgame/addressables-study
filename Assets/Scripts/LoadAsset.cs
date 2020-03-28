@@ -10,6 +10,10 @@ using UniRx.Async;
 public class LoadAsset : MonoBehaviour
 {
     private List<string> assetIDList;
+
+    [SerializeField]
+    private UnityEngine.UI.Image image;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,5 +35,7 @@ public class LoadAsset : MonoBehaviour
 
     private async UniTask Load()
     {
+        var file = assetIDList.OrderBy((e) => System.Guid.NewGuid()).First();
+        image.sprite = await Addressables.LoadAssetAsync<Sprite>(file).Task;
     }
 }
