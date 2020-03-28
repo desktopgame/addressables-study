@@ -20,1233 +20,1412 @@ MonoBehaviour:
   - m_GUID: 01296243a0a81c64bb22ecb754df1b3a
     m_Address: Assets/simple-assets/dist/128/line_rect_signal_red.png
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_SerializedLabels:
+    - MyLabel
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 01296243a0a81c64bb22ecb754df1b3a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 01296243a0a81c64bb22ecb754df1b3a, type: 3}
   - m_GUID: 033cf1f03740635478bbd20d8c4120ae
     m_Address: Assets/simple-assets/dist/32/fill_triangle_russian_blue.png
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_SerializedLabels:
+    - MyLabel
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 033cf1f03740635478bbd20d8c4120ae, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 033cf1f03740635478bbd20d8c4120ae, type: 3}
   - m_GUID: 05aee64e8a3c3eb458f258e1d82038ec
     m_Address: Assets/simple-assets/dist/32/line_rect_green.png
     m_ReadOnly: 0
-    m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_SerializedLabels:
+    - MyLabel
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 05aee64e8a3c3eb458f258e1d82038ec, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 05aee64e8a3c3eb458f258e1d82038ec, type: 3}
   - m_GUID: 073321470629cee4d80993135d47c23a
     m_Address: Assets/simple-assets/dist/64/fill_triangle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 073321470629cee4d80993135d47c23a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 073321470629cee4d80993135d47c23a, type: 3}
   - m_GUID: 079519eb98819a049b7c4aa15a21b10a
     m_Address: Assets/simple-assets/dist/96/line_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 079519eb98819a049b7c4aa15a21b10a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 079519eb98819a049b7c4aa15a21b10a, type: 3}
   - m_GUID: 094e041508fba6742b3793ea29087ae6
     m_Address: Assets/simple-assets/dist/64/fill_circle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 0cd9c48c13c7a904faf8f2bb4eba37c9
     m_Address: Assets/simple-assets/dist/128/fill_circle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 0d9b7d64b595fac4cb8e850528799aae
     m_Address: Assets/simple-assets/dist/64/line_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 10281303374004f4da0dfde5d7fe5e52
     m_Address: Assets/simple-assets/dist/32/line_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 1157db146c9889a489200edbf3dea946
     m_Address: Assets/simple-assets/dist/96/fill_triangle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 133294dbd37474643bf9cb21ddd6308a
     m_Address: Assets/simple-assets/dist/96/fill_circle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 2800000, guid: 133294dbd37474643bf9cb21ddd6308a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 133294dbd37474643bf9cb21ddd6308a, type: 3}
   - m_GUID: 1480cf1ad0baa2349966e5fd77934019
     m_Address: Assets/simple-assets/dist/128/line_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 14a42a4d69f515645aefaa13a8976af2
     m_Address: Assets/simple-assets/dist/64/fill_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 162e13fc3a00734498a870693997464c
     m_Address: Assets/simple-assets/dist/128/fill_triangle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 175319cb06fe67b4a92e610044b88604
     m_Address: Assets/simple-assets/dist/96/fill_circle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 1a665e7a04a06684d871b2a07e2a2c45
     m_Address: Assets/simple-assets/dist/128/fill_triangle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 1b76c82d45def6048938132b79b208bd
     m_Address: Assets/simple-assets/dist/64/fill_triangle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 1c6bf462476bb674d978878bf1877833
     m_Address: Assets/simple-assets/dist/32/line_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 211a3362f07b0af49b00108bc9ec62b8
     m_Address: Assets/simple-assets/dist/96/fill_circle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 25885859c45a69944bce09cf35851de8
     m_Address: Assets/simple-assets/dist/64/line_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 261a5c54613bea4459cd92569b14f5a9
     m_Address: Assets/simple-assets/dist/96/fill_triangle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2717e31539e7194489e29aaa3608d7f1
     m_Address: Assets/simple-assets/dist/128/fill_circle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2740c1b8f0d4eb24f9c6ed133070713b
     m_Address: Assets/simple-assets/dist/128/fill_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 285b650e7a005fa4e9a9bbfd796560e2
     m_Address: Assets/simple-assets/dist/32/fill_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2ac65f86de28fee4981c9291649ef582
     m_Address: Assets/simple-assets/dist/96/fill_circle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2ae3159ff30c25f42a9833552018d795
     m_Address: Assets/simple-assets/dist/64/fill_circle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2b0662b0180dd714c85c29fa5cfff1cb
     m_Address: Assets/simple-assets/dist/128/fill_triangle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2cc5c347ef02ed546918b7cb7bf7c2aa
     m_Address: Assets/simple-assets/dist/32/fill_triangle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2dcc26a0abea4644db983b7433eea730
     m_Address: Assets/simple-assets/dist/64/fill_triangle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2e3212d5ce4608f48a58b52e522acd7a
     m_Address: Assets/simple-assets/dist/32/fill_triangle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 2f86b6b41aa67a3459560e6717df06f3
     m_Address: Assets/simple-assets/dist/128/fill_circle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 30cc633c52b61f04e86564640584c374
     m_Address: Assets/simple-assets/dist/96/fill_triangle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 30cfa9a51fc57344bb6934f1a8210c84
     m_Address: Assets/simple-assets/dist/128/fill_triangle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 31c9067ceb20c9043a33e73f9f9e5baf
     m_Address: Assets/simple-assets/dist/32/line_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 32ccd2222f5055449a7f3389ed138544
     m_Address: Assets/simple-assets/dist/64/fill_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 34348c898e52fa946a73f1af75e80b2b
     m_Address: Assets/simple-assets/dist/64/line_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 34ac47785f6ce0d4f9966c88cf0f9eed
     m_Address: Assets/simple-assets/dist/32/fill_circle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3548a1048a6f6bb4cbe73fb784e204cf
     m_Address: Assets/simple-assets/dist/64/fill_triangle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3af9380ab309ba34b8a13a18b22a5907
     m_Address: Assets/simple-assets/dist/64/fill_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3cf2553d43aa63f4fb89d2dd6a062aba
     m_Address: Assets/simple-assets/dist/128/fill_circle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3dad9afe9d2fe8a4f89219489b83f1ad
     m_Address: Assets/simple-assets/dist/128/fill_triangle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 3ef166af7bd6aad4d9dca571464af22e
     m_Address: Assets/simple-assets/dist/64/line_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 400ab2084ee7c304cbb6c512ecaf83a6
     m_Address: Assets/simple-assets/dist/96/fill_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 402963751282da245aa57fff1ddbc899
     m_Address: Assets/simple-assets/dist/32/fill_circle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 40f263de1de1d9b4f84594874c3aa344
     m_Address: Assets/simple-assets/dist/64/line_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 411feeeae6cebbf4a8918c2948dea74a
     m_Address: Assets/simple-assets/dist/96/line_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 45c64331c15f9774ba4382c6ef7cbcf3
     m_Address: Assets/simple-assets/dist/96/fill_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 46ab739901ce4b74198316ffce38d59e
     m_Address: Assets/simple-assets/dist/128/fill_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4749aeaaefc75364fa7e3b87945c5d70
     m_Address: Assets/simple-assets/dist/64/fill_triangle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 481fa1db7c449144381cea3bada20a1b
     m_Address: Assets/simple-assets/dist/128/line_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 48893b95fa2e5454283a90cdff87752e
     m_Address: Assets/simple-assets/dist/32/fill_circle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4b7b890a7c48a0d4cbd0bde896b6bb78
     m_Address: Assets/simple-assets/dist/64/fill_circle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4bb3ff2037729154f885be36e33bba63
     m_Address: Assets/simple-assets/dist/96/fill_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4be8b1e8b83c43d489115e8ab07309c1
     m_Address: Assets/simple-assets/dist/96/line_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4d45895c723249640bb699cb710c8e9a
     m_Address: Assets/simple-assets/dist/32/fill_circle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 4e9e7facfcebdd543a8bc94411a5dfa4
     m_Address: Assets/simple-assets/dist/96/fill_circle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 51526474f622e4745aa666c81443c3f2
     m_Address: Assets/simple-assets/dist/96/line_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 525400d3699f5294e82b8e75f9841417
     m_Address: Assets/simple-assets/dist/128/fill_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 55bbd5b3d8369cb45a759b806c37d3fa
     m_Address: Assets/simple-assets/dist/96/fill_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 55f5e1663c2376348b84b23ed96a14f9
     m_Address: Assets/simple-assets/dist/128/fill_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 567638b7043418c4cbd1e777cda3c6b1
     m_Address: Assets/simple-assets/dist/64/fill_circle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 56a698e2b84aca4429178e698517800d
     m_Address: Assets/simple-assets/dist/96/line_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 590bc56fdc66c674286b9b7b08a9290b
     m_Address: Assets/simple-assets/dist/64/line_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 5be06aae806532448badf7a36cd39f56
     m_Address: Assets/simple-assets/dist/64/fill_triangle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 5ced6827e4b51e64fa44d1484a6e6b92
     m_Address: Assets/simple-assets/dist/32/fill_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 5d694b4cee5e8f5409f6d87be4f17822
     m_Address: Assets/simple-assets/dist/128/fill_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 5ddd7e54ba0c5ad43925db8f977f2b67
     m_Address: Assets/simple-assets/dist/32/fill_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6099962310ba1f2409ba060bdf7722da
     m_Address: Assets/simple-assets/dist/32/line_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 60bce2b8bb42bc04b881e97b2f03fce3
     m_Address: Assets/simple-assets/dist/64/fill_triangle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 61cae33d327acc9478b0cbc6a73624b4
     m_Address: Assets/simple-assets/dist/128/line_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 62cfe1871dd200a4fba4f3d19b0daab8
     m_Address: Assets/simple-assets/dist/96/fill_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 632b4a3977f2b564fb4b2003b7ad8557
     m_Address: Assets/simple-assets/dist/96/fill_circle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 65da5cbe222c74b4c8d9ae075bd4c91f
     m_Address: Assets/simple-assets/dist/128/line_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 68bcc75084a95354c845bfcb17795250
     m_Address: Assets/simple-assets/dist/32/fill_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6a45d83ce9390b747812db8fb1252a41
     m_Address: Assets/simple-assets/dist/64/fill_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6c7d04fcd6c14864f913e51a1e231d32
     m_Address: Assets/simple-assets/dist/64/fill_triangle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6d02df1fc2828784cb380326b61f3264
     m_Address: Assets/simple-assets/dist/96/fill_circle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6d34c199d451e8a4d9bb1ade31f51a57
     m_Address: Assets/simple-assets/dist/64/line_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6eb6e6e29ba9ee24abd86bffda43cbb9
     m_Address: Assets/simple-assets/dist/32/fill_circle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6f3765aaf93729d4c8c2c722cd6024ca
     m_Address: Assets/simple-assets/dist/128/fill_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 70de3d79ec025f54bad3f514c74a95c7
     m_Address: Assets/simple-assets/dist/128/fill_circle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 734e676896f1df941a082b056991cf23
     m_Address: Assets/simple-assets/dist/96/fill_triangle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 76e2a8e76d3266d4198d3090851d4f2e
     m_Address: Assets/simple-assets/dist/32/line_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 775031e91cdc8b54ab4cf98b17b8df03
     m_Address: Assets/simple-assets/dist/128/line_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 77b4b372fc3c18742a7a1878d2448a1f
     m_Address: Assets/simple-assets/dist/128/fill_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 789daa7b0f2fbc54a9d43351c29466c4
     m_Address: Assets/simple-assets/dist/128/line_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7a4612fc5b19c2844be9598f86874af2
     m_Address: Assets/simple-assets/dist/32/fill_triangle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7bbae6ae6ca50f04f9cebc1a799ab164
     m_Address: Assets/simple-assets/dist/64/line_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7c296f723b0b9e44ebf623872e6f0d50
     m_Address: Assets/simple-assets/dist/32/fill_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7dbe9efe516c4b54a8a82ef78be16df8
     m_Address: Assets/simple-assets/dist/64/fill_circle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 7ec1c2a5f7d097344b56a9abce6bd931
     m_Address: Assets/simple-assets/dist/96/line_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 807c805efff9cd94eaecc8918bb25de1
     m_Address: Assets/simple-assets/dist/32/fill_circle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 80b69367f11ddbb418039d8f208450a3
     m_Address: Assets/simple-assets/dist/64/fill_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 80eef456b6930924392ebdb082aace7b
     m_Address: Assets/simple-assets/dist/96/fill_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 82f3c75e5b6cd2048923f2c68a1628ea
     m_Address: Assets/simple-assets/dist/64/fill_circle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 83d6fc1e55a1979418ec36c32d7f1c21
     m_Address: Assets/simple-assets/dist/64/fill_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 84ef2802e5e922b4ca51299599d4fdea
     m_Address: Assets/simple-assets/dist/96/fill_triangle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 85a638cc8e5e4e8408485ec5e8f5cc28
     m_Address: Assets/simple-assets/dist/64/fill_triangle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 88660cd14ae72eb4f910cb2cefccf72a
     m_Address: Assets/simple-assets/dist/128/line_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 8f659d42b2582d64095ea7fe288e9af9
     m_Address: Assets/simple-assets/dist/64/fill_circle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 94304606764b798449f5dcbe68fff857
     m_Address: Assets/simple-assets/dist/32/fill_circle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 95ba8d0ae199c284ab3d95a8fa4543ae
     m_Address: Assets/simple-assets/dist/96/line_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9693c47e41dc6f842beb3a751bdaf0ab
     m_Address: Assets/simple-assets/dist/64/fill_circle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 97e835635ca64c940b56132b091fdf01
     m_Address: Assets/simple-assets/dist/64/line_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9a1e716569a561545acc9c06f38faec3
     m_Address: Assets/simple-assets/dist/128/fill_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9bd8e1d7a6b44374a941ed56fd92f8c8
     m_Address: Assets/simple-assets/dist/32/fill_triangle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9d66add2b41b06347823b7125cef3961
     m_Address: Assets/simple-assets/dist/32/line_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 9e092fd2c7246b44ca864db5803b941f
     m_Address: Assets/simple-assets/dist/64/line_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a0f19086f3ea1454698d0f5a09eb9c9a
     m_Address: Assets/simple-assets/dist/96/line_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a2e7a0bf1f832f94cb775a2d9946ae6a
     m_Address: Assets/simple-assets/dist/32/line_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a3d670233631e134c800f7a6147bbaf8
     m_Address: Assets/simple-assets/dist/32/fill_triangle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a402d8cffe659a747b48937ffd2dbd52
     m_Address: Assets/simple-assets/dist/128/line_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a4ba08dbdb683e14288bb069d06140a3
     m_Address: Assets/simple-assets/dist/96/fill_circle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a971d2721a503ff4ea1d95b98b96b382
     m_Address: Assets/simple-assets/dist/32/fill_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a9ea02eb6330a4644b96b18e970eabec
     m_Address: Assets/simple-assets/dist/96/fill_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: aa9176b398c8b944f880bed9c475fba4
     m_Address: Assets/simple-assets/dist/32/line_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: aab57daaf70b2a449953ee04305a18fa
     m_Address: Assets/simple-assets/dist/128/fill_circle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: ab28a064168930c4aaeb548f59eae7c7
     m_Address: Assets/simple-assets/dist/32/fill_triangle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: ac7d29b5815c0524cada625aa9639ad3
     m_Address: Assets/simple-assets/dist/32/line_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: af4de4e0e7a6ad541a27ed2e7f39b5e6
     m_Address: Assets/simple-assets/dist/128/fill_circle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b021e581e5cef454ebbe017db472cb0b
     m_Address: Assets/simple-assets/dist/64/fill_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b29dba4511a6b9646ab86846caa13011
     m_Address: Assets/simple-assets/dist/32/fill_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b34cb12cd6dd1874fbe7f6eb9d05b54f
     m_Address: Assets/simple-assets/dist/32/fill_triangle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b35f15933bfe5b747be810d445484690
     m_Address: Assets/simple-assets/dist/128/line_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b39fd297f6f1668458cb204c480d08f4
     m_Address: Assets/simple-assets/dist/32/fill_triangle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b7e0670f14b027d4cbcd33a768b1e5ac
     m_Address: Assets/simple-assets/dist/64/fill_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b7ea4f6aa5faf2a4f806c72c59621f1b
     m_Address: Assets/simple-assets/dist/32/fill_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b9e3c8ca6801c214a8bd306af162ddaa
     m_Address: Assets/simple-assets/dist/96/fill_triangle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: bbbc04d8471e5a3489bbca5a62234308
     m_Address: Assets/simple-assets/dist/128/line_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: bc25c37cf2e71ec4d98d5372b1451bab
     m_Address: Assets/simple-assets/dist/32/fill_circle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: bcce5df60f4df994aa732dfee1dde1ea
     m_Address: Assets/simple-assets/dist/64/fill_triangle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: be73e1c000667ce4ab76cc5d0997cd18
     m_Address: Assets/simple-assets/dist/64/fill_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c3a4f36c94fc81d42bb5b00e384ffd57
     m_Address: Assets/simple-assets/dist/128/fill_triangle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c5f9d7f2d9b1fd7469d23ea58f716092
     m_Address: Assets/simple-assets/dist/128/fill_triangle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c7b2e7fbb8617514c81df3b01f30266c
     m_Address: Assets/simple-assets/dist/96/fill_triangle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c7e9a8a64e764014eac88c3e5f90c180
     m_Address: Assets/simple-assets/dist/128/fill_triangle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: c9f344aff2b7f42439ab1338aec3cc94
     m_Address: Assets/simple-assets/dist/64/fill_rect_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: caa5eb6e259482845ab47928bad60b4f
     m_Address: Assets/simple-assets/dist/128/fill_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: cd7f19ceae8cb2c43aba1159c6481dfa
     m_Address: Assets/simple-assets/dist/96/fill_rect_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: cf92f74a0a96c1c42b3b9187aec7a6e0
     m_Address: Assets/simple-assets/dist/32/fill_circle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: d13d98552aa69f1459d702105b132c1e
     m_Address: Assets/simple-assets/dist/64/fill_triangle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: d17f6abadf088ce42b8a9f1f575fdf02
     m_Address: Assets/simple-assets/dist/96/fill_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: d2d87f433d970d448b2cebe7d7fe86f8
     m_Address: Assets/simple-assets/dist/128/fill_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: d566443b612608241981881d4aa8036b
     m_Address: Assets/simple-assets/dist/128/fill_triangle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: d597b6ae438b64a4cae4b04a3c93161a
     m_Address: Assets/simple-assets/dist/128/fill_circle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: da79a190194008443b573c8daf0377a5
     m_Address: Assets/simple-assets/dist/96/line_rect_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: dc03012cc32bd854ebf8267a58006f3b
     m_Address: Assets/simple-assets/dist/32/fill_triangle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: dcc42518e109bc64bab3b057ea21d182
     m_Address: Assets/simple-assets/dist/128/fill_circle_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: dd77c1d51c6f47247bac60f915925806
     m_Address: Assets/simple-assets/dist/96/fill_triangle_russian_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: de65feeeacd773e4f85411d9ef2ad15a
     m_Address: Assets/simple-assets/dist/96/fill_circle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: df4f2829ebe44524b85ef15dd5bd6c92
     m_Address: Assets/simple-assets/dist/32/line_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e09a5f918610a1b4599c0134eb6af6c4
     m_Address: Assets/simple-assets/dist/128/fill_triangle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e0c0616e6c99cb04f888d0e4e03f3777
     m_Address: Assets/simple-assets/dist/96/fill_circle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e14d9ef73a9421b4eb3fc74079b4194e
     m_Address: Assets/simple-assets/dist/64/line_rect_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e2e22227935dfa049865ec33bb85f8fa
     m_Address: Assets/simple-assets/dist/96/fill_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e404d640de6206245b02992654bea270
     m_Address: Assets/simple-assets/dist/64/fill_circle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e4478780544b19d4aa7cc81f706fe865
     m_Address: Assets/simple-assets/dist/96/line_rect_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e482ef85983ec44498caa440037de2b0
     m_Address: Assets/simple-assets/dist/32/fill_rect_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e55f00b543953b14dab040124868f516
     m_Address: Assets/simple-assets/dist/64/fill_circle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e58573ab80f02464d999dd2e0d68163b
     m_Address: Assets/simple-assets/dist/96/fill_triangle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e6fae2097095aa745a243851387e3473
     m_Address: Assets/simple-assets/dist/96/fill_circle_carmine_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: e95e6252673ae0e4687413a69759085d
     m_Address: Assets/simple-assets/dist/32/fill_triangle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: eb9e9f9d8d095e649bcdd0ab218fc7c8
     m_Address: Assets/simple-assets/dist/128/fill_rect_emerald_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: ee4dfe7364738b5418150618024d4aec
     m_Address: Assets/simple-assets/dist/64/fill_rect_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: eeb694c131e64634caf1fd137d604522
     m_Address: Assets/simple-assets/dist/96/line_rect_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: eedaabc02d5f8e34392f44a4e3183718
     m_Address: Assets/simple-assets/dist/96/fill_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: f44165bd3c82df24b83129ebd01333ff
     m_Address: Assets/simple-assets/dist/64/fill_circle_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: f666c7a7b4aed94438e5fd11c062415c
     m_Address: Assets/simple-assets/dist/128/fill_circle_indian_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: f8b621fa1056c164282e2dedde575aa7
     m_Address: Assets/simple-assets/dist/32/fill_circle_signal_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: f9c614dc9f7a5fd43893bcc3a4144a4d
     m_Address: Assets/simple-assets/dist/96/fill_triangle_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: fb8426cf94261824fae9cc8ece80e4b8
     m_Address: Assets/simple-assets/dist/128/fill_circle_red.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: fc1542063e716a14a9bb13d777b3875c
     m_Address: Assets/simple-assets/dist/96/fill_triangle_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: fccae6f17f495394eb44d8d14bb8f1f4
     m_Address: Assets/simple-assets/dist/128/fill_triangle_supream_blue.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: fdb90f40a26c3384f99601e8deac155d
     m_Address: Assets/simple-assets/dist/32/fill_rect_cobalt_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: ff28575dbcc223943bcefff802ac59e8
     m_Address: Assets/simple-assets/dist/32/fill_circle_green.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: ff6f22a2e1a0dd447ab7f0c5b5793d93
     m_Address: Assets/simple-assets/dist/32/fill_rect_lemon_yellow.png
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: 
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
