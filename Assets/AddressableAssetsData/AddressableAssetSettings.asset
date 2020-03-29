@@ -42,9 +42,9 @@ MonoBehaviour:
       - m_Id: 4230dbea406475d4ba6e869dfd943565
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: e36cff087a1b93349bb17cb0173a55b8
-        m_Value: ServerData/[BuildTarget]
+        m_Value: others\http_server\StandaloneWindows64
       - m_Id: 94c4087798308a4499f93c1a08ee7d43
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: http://localhost:8080/StandaloneWindows64
     m_ProfileEntryNames:
     - m_Id: beb7b42d4b3787b4395608ec8d4a8ba2
       m_Name: BuildTarget
@@ -96,7 +96,7 @@ MonoBehaviour:
           m_Key: ContentRoot
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.Boolean
-          m_Data: True
+          m_Data: False
           m_Key: IsEnabled
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.String
